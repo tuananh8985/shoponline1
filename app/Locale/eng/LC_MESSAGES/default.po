@@ -1,0 +1,97 @@
+﻿msgid "Home"
+msgstr "Home Page"
+
+msgid "home"
+msgstr "Home"
+
+msgid "contact"
+msgstr "Contact"
+
+msgid "news"
+msgstr "News"
+
+msgid "lienket"
+msgstr "Website link"
+
+msgid "lienhe"
+msgstr "CONTACT"
+
+msgid "coquanht"
+msgstr "Cooperation Agency"
+
+msgid "search"
+msgstr "Search"
+
+msgid "support"
+msgstr "Support"
+
+msgid "video_lib"
+msgstr "Video library"
+
+msgid "video_img"
+msgstr "Photo gallery"
+
+msgid "tinnb"
+msgstr "Hot News"
+
+msgid "read_more"
+msgstr "Read more"
+
+msgid "intro_web"
+msgstr "Welcome to the website of Agronomes & Veterinaires Sans Frontieres"
+
+msgid "search"
+msgstr "Search"
+
+msgid "Product"
+msgstr "Project"
+
+msgid "xemtiep"
+msgstr "Read more"
+
+msgid "quaylai"
+msgstr "Back"
+
+msgid "danhsach"
+msgstr "List"
+
+msgid "danhsachtintuc"
+msgstr "News List"
+
+msgid "chitiet"
+msgstr "Details"
+
+msgid "chitiettintuc"
+msgstr "News details"
+
+msgid "sanphamcungseri"
+msgstr "Products of the same series"
+
+ msgid "sanphamtimthay"
+msgstr "Products found"
+
+msgid "hoten"
+msgstr "Full name"
+
+msgid "diachi"
+msgstr "Address"
+
+msgid "email"
+msgstr "Email"
+
+msgid "sodienthoai"
+msgstr "Phone number"
+
+msgid "tieude"
+msgstr "Title"
+
+msgid "noidung"
+msgstr "Content"
+
+ 
+msgid "chitiettintuc"
+msgstr "News details"
+
+
+
+

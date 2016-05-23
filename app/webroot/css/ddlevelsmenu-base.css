@@ -1,0 +1,83 @@
+/* ######### Drop Down DIVs CSS ######### */
+
+
+.ddsubmenustyle, .ddsubmenustyle div{ /*topmost and sub DIVs, respectively*/
+    font: normal 13px Verdana;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    list-style-type: none;
+    border-bottom-width: 0;
+    visibility: hidden;
+    z-index: 100;
+}
+
+.ddsubmenustyle ul{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    list-style-type: none;
+    border: 0px none;background: #f6f6f6;
+}
+
+.ddsubmenustyle li a{
+    display: block;
+	color: #000;
+	padding-left: 20px;
+	line-height: 20px;
+}
+
+* html .ddsubmenustyle li{ /*IE6 CSS hack*/
+    display: inline-block;
+    width: 230px; /*width of menu (include side paddings of LI A*/
+	background:url(../images/bg_menu1.gif)repeat-x;
+
+}
+.ddsubmenustyle ul li{
+height: auto;
+border-bottom: 1px solid #c7c7c7;
+width: 230px;
+
+padding-top: 8px;
+padding-bottom: 7px;
+background: url(../images/icon-category.png) no-repeat 10px 15px;
+} 
+
+.ddsubmenustyle li a:hover{
+color:#ee1d23;
+}
+
+.ddsubmenustyle ul li a:visited, .ddsubmenustyle ul li a:active{
+
+}
+
+.ddsubmenustyle ul li a:hover, .ddsubmenustyle ul li a.selected{
+color:#ee1d23;
+}
+
+/* ######### Neutral CSS  ######### */
+
+.downarrowpointer{ /*CSS for "down" arrow image added to top menu items*/
+   display:none;
+}
+
+.rightarrowpointer{ /*CSS for "right" arrow image added to drop down menu items*/
+    position: absolute;
+    padding-top: 3px;
+    left: 100px;
+    border: 0;
+}
+
+.ddiframeshim{
+    position: absolute;
+    z-index: 500;
+    background: transparent;
+    border-width: 0;
+    width: 0;
+    height: 0;
+    display: block;
+}

@@ -1,0 +1,117 @@
+msgid "Home"
+msgstr "Trang chủ"
+
+msgid "home"
+msgstr "Trang chủ"
+
+msgid "service"
+msgstr "Dịch vụ"
+
+msgid "news"
+msgstr "Tin tức"
+
+msgid "contact"
+msgstr "Liên hệ"
+
+msgid "lienhe"
+msgstr "LIÊN HỆ"
+
+msgid "send"
+msgstr "Gửi"
+
+msgid "hot_news"
+msgstr "Tin nóng"
+
+msgid "service_hot"
+msgstr "Dịch vụ nổi bật"
+
+msgid "Rescue_transport"
+msgstr "Cứu hộ giao thông"
+
+msgid "info"
+msgstr "Thông tin hữu ích"
+
+msgid "search"
+msgstr "Tìm kiếm"
+
+msgid "support_online"
+msgstr "Hỗ trợ trực tuyến"
+
+msgid "thongketruycap"
+msgstr "Thống kê truy cập"
+
+msgid "partners"
+msgstr "Đối tác"
+
+msgid "name_contact"
+msgstr "Họ Tên"
+
+msgid "address_contact"
+msgstr "Địa chỉ"
+
+msgid "phone_contact"
+msgstr "Điện thoại"
+
+msgid "message_contact"
+msgstr "Nội dung"
+
+msgid "title_contact"
+msgstr "Xin vui lòng điền đầy đủ các form dưới đây"
+
+msgid "message1"
+msgstr "Nhập họ tên"
+
+msgid "message2"
+msgstr "Nhập địa chỉ"
+
+msgid "message3"
+msgstr "Nhập số điện thoại"
+
+msgid "message4"
+msgstr "Nhập nội dung liên hệ"
+
+msgid "message5"
+msgstr "Định dạng mail không đúng !"
+
+msgid "xemtiep"
+msgstr "Xem tiếp"
+
+msgid "quaylai"
+msgstr "Quay lại"
+
+msgid "danhsach"
+msgstr "Danh sách"
+
+msgid "danhsachtintuc"
+msgstr "Danh sách tin tức"
+
+msgid "chitiet"
+msgstr "Chi tiết"
+
+msgid "chitiettintuc"
+msgstr "Chi tiết tin tức"
+
+msgid "sanphamcungseri"
+msgstr "Sản phẩm cùng seri"
+
+msgid "sanphamtimthay"
+msgstr "Sản phẩm tìm thấy"
+
+
+msgid "hoten"
+msgstr "Họ tên"
+
+msgid "diachi"
+msgstr "Địa chỉ"
+
+msgid "email"
+msgstr "Email"
+
+msgid "sodienthoai"
+msgstr "Số điện thoại"
+
+msgid "tieude"
+msgstr "Tiêu đề"
+
+msgid "noidung"
+msgstr "Nội dung"

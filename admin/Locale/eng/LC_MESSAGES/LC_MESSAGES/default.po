@@ -1,0 +1,103 @@
+﻿msgid "home"
+msgstr "ホーム"
+
+msgid "about"
+msgstr "会社概要"
+
+msgid "khoahoctieng"
+msgstr "日本語・ベトナム語"
+
+msgid "boiduongvanhoa"
+msgstr "塾"
+
+msgid "biendich"
+msgstr "通訳・翻訳サービス"
+
+msgid "khoahocmoi"
+msgstr "新しいコース"
+
+msgid "sodo"
+msgstr "交通手段"
+
+msgid "contact"
+msgstr "サポート・コンタクト"
+
+msgid "statistics"
+msgstr "アクセス人数統計"
+
+msgid "support"
+msgstr "オンラインサポート"
+
+msgid "resign_online"
+msgstr "メールリングリスト登録
+
+msgid "your_name"
+msgstr "名前"
+
+msgid "company"
+msgstr "会社"
+
+msgid "trinhdotiengnhat"
+msgstr "日本語レベル"
+
+msgid "giaotrinh"
+msgstr "勉強した教科書"
+
+msgid "name_course"
+msgstr "申し込みコース"
+
+msgid "phone_number"
+msgstr "電話番号"
+
+msgid "resign"
+msgstr "登録"
+
+
+msgid "read_more"
+msgstr "続く..."
+
+msgid "pre"
+msgstr "前"
+
+msgid "next"
+msgstr "次"
+
+
+
+
+msgid "support_online"
+msgstr "オンラインサポート"
+
+msgid "subject"
+msgstr "テーマ"
+
+msgid "messgae"
+msgstr "内容"
+
+msgid "support_message"
+msgstr "メッセージ"
+
+msgid "send"
+msgstr "送信"
+
+msgid "click"
+msgstr "クリック"
+
+msgid "map"
+msgstr "地図記事"
+
+msgid "map"
+msgstr "地図記事"
+
+
+msgid "weather"
+msgstr "天気"
+
+msgid "website_huuich"
+msgstr "Website 便利"
+
+msgid "website_huuich"
+msgstr "Website 便利"
+
+msgid "resign_online"
+msgstr "メールリングリスト登録"

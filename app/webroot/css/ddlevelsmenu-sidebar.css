@@ -1,0 +1,42 @@
+/* ######### Marker List Vertical Menu ######### */
+.markermenu{
+	clear: left;
+	position: relative; /*Preserve this for "right" arrow images (added by script) to be positioned correctly*/
+}
+.markermenu ul{
+	list-style-type: none;
+	padding: 0;
+}
+.markermenu ul li{
+	width:202px;
+}
+.markermenu ul li:last-child{
+	border-bottom:none;
+}
+.markermenu ul li:hover{
+	background:url(../images/hover_menu_left.png)repeat-x;
+}
+.markermenu ul li a{
+	font-weight: bold;
+	color: #fff;
+	display: block;
+	font-size: 12px;
+	padding-left:19px;
+}
+.rightarrowpointer{
+	display:none;
+}
+* html .markermenu ul li a{ /*IE6 hack*/
+	width: 202px;
+}
+.markermenu ul li a:visited, .markermenu ul li a:active{
+}
+.markermenu ul li a:hover, .markermenu ul li a.selected{
+	color:#ee1d23;
+}
+.blackwhite li a{
+}
+
+.blackwhite li a:hover{
+	color:#ee1d23;
+}

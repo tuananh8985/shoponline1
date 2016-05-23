@@ -1,0 +1,139 @@
+msgid "Trang chủ"
+msgstr "家"
+
+msgid "Giới thiệu"
+msgstr "關於我們"
+
+msgid "Trà cụ"
+msgstr "茶"
+
+msgid "Tin tức & sự kiện"
+msgstr "新聞與活動"
+
+msgid "Sản phẩm"
+msgstr "產品"
+
+msgid "Liên hệ"
+msgstr "聯繫我們"
+
+msgid "Bản đồ"
+msgstr "地圖"
+
+msgid "Thư viện ảnh"
+msgstr "畫廊"
+
+msgid "ten"
+msgstr "名稱"
+
+msgid "diachi"
+msgstr "地址"
+
+msgid "dienthoai"
+msgstr "電話"
+
+msgid "tieude"
+msgstr "文本"
+
+msgid "noidung"
+msgstr "內容"
+
+msgid "guimail"
+msgstr "發送電子郵件"
+
+msgid "giohangcuaban"
+msgstr "您的購物車"
+
+msgid "hotrotructuyen"
+msgstr "在線支持"
+
+msgid "khonggiantraolong"
+msgstr "空間烏龍茶"
+
+msgid "baiduocxemnhieunhat"
+msgstr "瀏覽最多的文章"
+
+msgid "thongketruycap"
+msgstr "訪問計數器"
+
+msgid "sanphammoi"
+msgstr "新產品"
+
+msgid "camnangtra"
+msgstr "FOR TEA手冊"
+
+
+msgid "quaylai"
+msgstr "背面"
+
+msgid "chitiet"
+msgstr "詳細信息"
+
+
+msgid "sanphamtronggiohang"
+msgstr "購物車中的產品"
+
+msgid "hinhanh"
+msgstr "圖片"
+
+msgid "tensanpham"
+msgstr "產品名稱"
+
+msgid "soluong"
+msgstr "數"
+
+msgid "gia"
+msgstr "價格"
+
+msgid "tonggia"
+msgstr "總"
+
+msgid "chuacosanphamnaotronggiohang"
+msgstr "您有您的購物車中沒有商品"
+
+
+msgid "tongtienphaitra"
+msgstr "支付的總金額"
+
+msgid "thongtincuaban"
+msgstr "您的信息"
+
+msgid "guidi"
+msgstr "發送"
+
+msgid "soanlai"
+msgstr "取消"
+
+msgid "sanpham"
+msgstr "產品"
+
+msgid "email"
+msgstr "電子郵件"
+
+
+msgid "sanphamcungseri"
+msgstr "電子郵件..."
+
+msgid "mota"
+msgstr "描述"
+
+msgid "tinhtrang"
+msgstr "狀態"
+
+msgid "chitietsanpham"
+msgstr "產品詳細信息"
+
+msgid "giaban"
+msgstr "銷售價格"
+
+msgid "mua"
+msgstr "購買"
+
+msgid "hethang"
+msgstr "缺貨"
+
+msgid "conhang"
+msgstr "上"
+
+msgid "chuabaogomthueVAT"
+msgstr "不包括增值稅"
+

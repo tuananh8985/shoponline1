@@ -1,0 +1,1 @@
+<?phpclass Danhmuc extends AppModel {    public $name = 'Danhmuc';    public $displayField = 'name';	}?>
